@@ -28,7 +28,7 @@ Device
 <img src="docs/dev.jpg" alt="System Architecture" width="200">  
 
 
-Screens  
+Tabs    
 <img src="docs/scrns.png" alt="System Architecture" width="700">
 
 
