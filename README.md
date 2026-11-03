@@ -25,10 +25,10 @@ The device provides the following features:
 
 
 Device     
-<img src="docs/dev.jpg" alt="System Architecture" width="400">  
+<img src="docs/dev.jpg" alt="System Architecture" width="200">  
 
 
-Screens
+Screens  
 <img src="docs/scrns.png" alt="System Architecture" width="700">
 
 
