@@ -40,7 +40,7 @@ There are several aspects of the hardware design that could be improved in a fut
 
 - **Final Capabilities:** Furthermore, the microcontroller is operating at the limit of its capabilities—it is able to read CAN data with the bus at 100% load while simultaneously rendering it to the display. It might be advisable to limit the graphics memory allocation in `lv_conf.h`. This limitation also causes a "curtain" effect (tearing/stuttering) during screen refreshes, though it is not particularly distracting to the eye. 
 
-Furthermore, reading and writing have been verified using professional tools such as PCAN, Kvaser, and CANoe.
+- It is worth noting that reading and writing have been verified using professional tools such as PCAN, Kvaser, and CANoe. 
 
 ## Acknowledgements
 
