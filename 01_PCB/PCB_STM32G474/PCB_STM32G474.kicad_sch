@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c414fea3-e7f7-42d6-b363-3b6336627885")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 41.275 118.745)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1003e71a-945a-4db5-983b-7ec34b848a23")
+		(property "Sheetname" "DISPLAY.ADPT"
+			(at 41.275 117.1684 0)
+			(effects
+				(font
+					(size 3 3)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "displayadapter.kicad_sch"
+			(at 41.275 149.8096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_STM32G474"
+				(path "/c414fea3-e7f7-42d6-b363-3b6336627885"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 39.37)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39c6b4ab-3863-4ac8-8b68-f659a0ba6904")
+		(property "Sheetname" "PWR"
+			(at 41.91 37.7934 0)
+			(effects
+				(font
+					(size 3 3)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pwr.kicad_sch"
+			(at 41.91 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_STM32G474"
+				(path "/c414fea3-e7f7-42d6-b363-3b6336627885"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.655 88.265)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ebaf926-981b-44cb-b469-53cd935419a5")
+		(property "Sheetname" "PERIFERICS"
+			(at 160.655 86.6884 0)
+			(effects
+				(font
+					(size 3 3)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "periferics.kicad_sch"
+			(at 160.655 119.3296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_STM32G474"
+				(path "/c414fea3-e7f7-42d6-b363-3b6336627885"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 39.37)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "917759e0-32ac-4a62-aea0-58697d2cd1cf")
+		(property "Sheetname" "MCU"
+			(at 101.6 37.7934 0)
+			(effects
+				(font
+					(size 3 3)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 101.6 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_STM32G474"
+				(path "/c414fea3-e7f7-42d6-b363-3b6336627885"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.655 39.37)
+		(size 48.26 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b85be75c-bdaf-4da0-a623-da2a3b39d442")
+		(property "Sheetname" "CAN"
+			(at 160.655 37.7934 0)
+			(effects
+				(font
+					(size 3 3)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "can.kicad_sch"
+			(at 160.655 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_STM32G474"
+				(path "/c414fea3-e7f7-42d6-b363-3b6336627885"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
