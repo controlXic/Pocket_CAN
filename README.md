@@ -1,12 +1,12 @@
-# Control Xic CANFD Tool
+# Control Xic CANFD Tool  
 
--STM32G474RET6 MCU
--ST7796S TFT 480x320
--TP FT6336
+-STM32G474RET6 MCU  
+-ST7796S TFT 480x320  
+-TP FT6336  
 
-A pocket-sized device for monitoring and transmitting CAN frames.
+A pocket-sized device for monitoring and transmitting CAN frames.  
 
-Developed using **LVGL 9.2**, **STM32CubeIDE**, **KiCad**
+Developed using **LVGL 9.2**, **STM32CubeIDE**, **KiCad**  
 
 
 ## Overview
