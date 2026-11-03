@@ -23,6 +23,15 @@ The device provides the following features:
 - **Bus statistics:** Monitor CAN bus statistics.
 - **USB Serial interface:** Read and write data through a USB serial port (8N1, 115200 baud).
 
+
+Device     
+<img src="docs/dev.png" alt="System Architecture" width="400">  
+
+
+Screens
+<img src="docs/scrns.png" alt="System Architecture" width="700">
+
+
 ## Hardware and Design Notes
 
 **CAN FD support was ultimately dropped** due to limitations related to the display size and overall user experience.
